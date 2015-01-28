@@ -11,7 +11,7 @@ body {
 /* General & 'Reset' Stuff */
 
 .container {
-  width: 90%;
+  width: 90%;icon
   max-width: 600px;
   margin: 0 auto;
 }
@@ -220,6 +220,11 @@ hr {
 .btn-github .icon {
   opacity: 0.6;
   background: url("../images/blacktocat.png") 0 0 no-repeat;
+}
+
+.btn-twitter .icon {
+  opacity: 0.6;
+  background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAEG0lEQVQ4EQEQBO/7AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA9vb2HPz8/G78/Px4+fn5MgAAAAAAAAAA7e3tEAD09PQY+/v7egAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPr6+kL+/v7z///////////+/v79/Pz8ofz8/L/5+flEAPv7+1D+/v7/+/v7ke3t7QYAAAAAAAAAAAAAAADk5OQE/f394////////////////////////////Pz81fn5+XwA+vr6Pv///////////f390/r6+lDl5eUEAAAAAPf39yj////////////////////////////////9/f2/9PT0DADn5+cC/f390f////////////////39/ef8/Pyn/Pz8k/////////////////////////////////z8/G4AAAAAAPj4+Ej7+/u5/v7+////////////////////////////////////////////////////////////+/v7WAAAAAAA9fX1GP7+/vf///////////////////////////////////////////////////////////7+/v/19fUkAAAAAAAAAAAA+/v7XP7+/vn//////////////////////////////////////////////////////f390QAAAAAAAAAAAAAAAADu7u4Q/Pz8q/7+/v3////////////////////////////////////////////////7+/tiAAAAAAAAAAAAAAAAAAAAAAD8/Pyb/////////////////////////////////////////////////f39yenp6QQAAAAAAAAAAAAAAAAAAAAAAOTk5AL7+/tg/Pz8yf////////////////////////////////39/eX39/cgAAAAAAAAAAAAAAAAAAAAAAAAAAAA9PT0IPz8/Hr+/v7v///////////////////////////9/f3X+fn5JgAAAAAAAAAAAAAAAAAAAAAA9vb2TPz8/Mv+/v7////////////////////////////+/v7t/Pz8gfLy8goAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3d3dAvj4+Dj8/Pxw/f39jf39/Y/7+/t4+vr6Ru7u7ggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACOEGh3IhdeHwAAAABJRU5ErkJggg==") 0 0 no-repeat;
 }
 
 /* Links
